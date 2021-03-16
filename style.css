@@ -1,3 +1,11 @@
 header {
     background: linear-gradient(to bottom, red, blue);
 }
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    height: auto;
+
+}
